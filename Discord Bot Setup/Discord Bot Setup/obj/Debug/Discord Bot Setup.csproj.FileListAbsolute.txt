@@ -1,0 +1,11 @@
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\bin\Debug\Discord Bot Setup.exe.config
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\bin\Debug\Discord Bot Setup.exe
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\bin\Debug\Discord Bot Setup.pdb
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\bin\Debug\MetroFramework.dll
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\bin\Debug\MetroFramework.Fonts.dll
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\obj\Debug\Discord Bot Setup.csprojResolveAssemblyReference.cache
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\obj\Debug\Discord_Bot_Setup.Form1.resources
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\obj\Debug\Discord_Bot_Setup.Properties.Resources.resources
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\obj\Debug\Discord Bot Setup.csproj.GenerateResource.Cache
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\obj\Debug\Discord Bot Setup.exe
+c:\users\selez\documents\visual studio 2015\Projects\Discord Bot Setup\Discord Bot Setup\obj\Debug\Discord Bot Setup.pdb
